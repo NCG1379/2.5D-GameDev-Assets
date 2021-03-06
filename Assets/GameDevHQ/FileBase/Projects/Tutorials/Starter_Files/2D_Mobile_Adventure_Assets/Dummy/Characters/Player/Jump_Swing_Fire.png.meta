@@ -1,0 +1,1795 @@
+fileFormatVersion: 2
+guid: 614e130cb718e754da08cb65a1d4690a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2327405336075511656
+    second: Jump_Swing_Fire_0
+  - first:
+      213: 3476126927713392319
+    second: Jump_Swing_Fire_1
+  - first:
+      213: -6998900559829647362
+    second: Jump_Swing_Fire_2
+  - first:
+      213: -8806658244288164819
+    second: Jump_Swing_Fire_3
+  - first:
+      213: 1616558906734888003
+    second: Jump_Swing_Fire_4
+  - first:
+      213: 435401801569618456
+    second: Jump_Swing_Fire_5
+  - first:
+      213: 4741317021247808150
+    second: Jump_Swing_Fire_6
+  - first:
+      213: -5226626082795415347
+    second: Jump_Swing_Fire_7
+  - first:
+      213: 3539323557140207997
+    second: Jump_Swing_Fire_8
+  - first:
+      213: -3043260023028698275
+    second: Jump_Swing_Fire_9
+  - first:
+      213: -449053241197992326
+    second: Jump_Swing_Fire_10
+  - first:
+      213: -7121993906968965036
+    second: Jump_Swing_Fire_11
+  - first:
+      213: -1055801630231849639
+    second: Jump_Swing_Fire_12
+  - first:
+      213: 3680967997176789858
+    second: Jump_Swing_Fire_13
+  - first:
+      213: 5534583580890176414
+    second: Jump_Swing_Fire_14
+  - first:
+      213: -3967538326841435177
+    second: Jump_Swing_Fire_15
+  - first:
+      213: -8283905424714267235
+    second: Jump_Swing_Fire_16
+  - first:
+      213: -4613137188212246278
+    second: Jump_Swing_Fire_17
+  - first:
+      213: -3537470038512744726
+    second: Jump_Swing_Fire_18
+  - first:
+      213: 7970683597344625728
+    second: Jump_Swing_Fire_19
+  - first:
+      213: 2297750254992928410
+    second: Jump_Swing_Fire_20
+  - first:
+      213: 8112009294690376968
+    second: Jump_Swing_Fire_21
+  - first:
+      213: -1599894643971924075
+    second: Jump_Swing_Fire_22
+  - first:
+      213: -8203323231069003830
+    second: Jump_Swing_Fire_23
+  - first:
+      213: -1171778311286326346
+    second: Jump_Swing_Fire_24
+  - first:
+      213: 1028741536955918542
+    second: Jump_Swing_Fire_25
+  - first:
+      213: -4107652248118984832
+    second: Jump_Swing_Fire_26
+  - first:
+      213: 5543849347223590419
+    second: Jump_Swing_Fire_27
+  - first:
+      213: 5410813968783976981
+    second: Jump_Swing_Fire_28
+  - first:
+      213: 6030458511003217192
+    second: Jump_Swing_Fire_29
+  - first:
+      213: 1899235516810293104
+    second: Jump_Swing_Fire_30
+  - first:
+      213: -5984894052846159970
+    second: Jump_Swing_Fire_31
+  - first:
+      213: -492434621685379933
+    second: Jump_Swing_Fire_32
+  - first:
+      213: -7609235352245590932
+    second: Jump_Swing_Fire_33
+  - first:
+      213: -4358099137744200682
+    second: Jump_Swing_Fire_0
+  - first:
+      213: 5056356020747806725
+    second: Jump_Swing_Fire_1
+  - first:
+      213: -4977819949379082951
+    second: Jump_Swing_Fire_2
+  - first:
+      213: -4542204749512613907
+    second: Jump_Swing_Fire_3
+  - first:
+      213: 162522316901228140
+    second: Jump_Swing_Fire_4
+  - first:
+      213: 6415851688816875139
+    second: Jump_Swing_Fire_5
+  - first:
+      213: 1677598131082074750
+    second: Jump_Swing_Fire_6
+  - first:
+      213: 7742577130638733327
+    second: Jump_Swing_Fire_7
+  - first:
+      213: -8300713375204911828
+    second: Jump_Swing_Fire_8
+  - first:
+      213: -8098462567013496077
+    second: Jump_Swing_Fire_9
+  - first:
+      213: -1731199350169728014
+    second: Jump_Swing_Fire_10
+  - first:
+      213: -369995855635502913
+    second: Jump_Swing_Fire_11
+  - first:
+      213: -5108530392600653656
+    second: Jump_Swing_Fire_12
+  - first:
+      213: -5115154144805286158
+    second: Jump_Swing_Fire_13
+  - first:
+      213: -6914883007758130481
+    second: Jump_Swing_Fire_14
+  - first:
+      213: 1659324711368811372
+    second: Jump_Swing_Fire_15
+  - first:
+      213: 5875329149860894129
+    second: Jump_Swing_Fire_16
+  - first:
+      213: 5090694289279077719
+    second: Jump_Swing_Fire_17
+  - first:
+      213: 865432013196689957
+    second: Jump_Swing_Fire_18
+  - first:
+      213: -8497924317033086217
+    second: Jump_Swing_Fire_19
+  - first:
+      213: 1043503234144291461
+    second: Jump_Swing_Fire_20
+  - first:
+      213: -8240291174428484907
+    second: Jump_Swing_Fire_21
+  - first:
+      213: 1563596102947625287
+    second: Jump_Swing_Fire_22
+  - first:
+      213: 7878896158573954437
+    second: Jump_Swing_Fire_23
+  - first:
+      213: 2256273885371692763
+    second: Jump_Swing_Fire_24
+  - first:
+      213: -1486626754389232503
+    second: Jump_Swing_Fire_25
+  - first:
+      213: 1752611870189281062
+    second: Jump_Swing_Fire_26
+  - first:
+      213: 8736240788927279226
+    second: Jump_Swing_Fire_27
+  - first:
+      213: -7709927930699582798
+    second: Jump_Swing_Fire_28
+  - first:
+      213: 3552254411273841429
+    second: Jump_Swing_Fire_29
+  - first:
+      213: -6790475657649825487
+    second: Jump_Swing_Fire_30
+  - first:
+      213: 1921892624365662201
+    second: Jump_Swing_Fire_31
+  - first:
+      213: 8396704962398285171
+    second: Jump_Swing_Fire_32
+  - first:
+      213: 6312628442305661988
+    second: Jump_Swing_Fire_33
+  - first:
+      213: 6047300571331236368
+    second: Jump_Swing_Fire_34
+  - first:
+      213: 5230317625582987125
+    second: Jump_Swing_Fire_35
+  - first:
+      213: 2347253923373338460
+    second: Jump_Swing_Fire_36
+  - first:
+      213: 6010484643502805354
+    second: Jump_Swing_Fire_37
+  - first:
+      213: -4125007627320198134
+    second: Jump_Swing_Fire_38
+  - first:
+      213: -53815841327470243
+    second: Jump_Swing_Fire_39
+  - first:
+      213: 4045875463271988429
+    second: Jump_Swing_Fire_40
+  - first:
+      213: 8596793633313487473
+    second: Jump_Swing_Fire_41
+  - first:
+      213: -3204518255067941377
+    second: Jump_Swing_Fire_42
+  - first:
+      213: 2444856003521244544
+    second: Jump_Swing_Fire_43
+  - first:
+      213: 7215035225853274433
+    second: Jump_Swing_Fire_44
+  - first:
+      213: 4177883406479040698
+    second: Jump_Swing_Fire_45
+  - first:
+      213: -3779448231727506588
+    second: Jump_Swing_Fire_46
+  - first:
+      213: -2169439655203601848
+    second: Jump_Swing_Fire_47
+  - first:
+      213: 6411021596109918921
+    second: Jump_Swing_Fire_48
+  - first:
+      213: 2445488145025279276
+    second: Jump_Swing_Fire_49
+  - first:
+      213: -2034195711176777563
+    second: Jump_Swing_Fire_50
+  - first:
+      213: -7962996120939554089
+    second: Jump_Swing_Fire_51
+  - first:
+      213: 812380886789952309
+    second: Jump_Swing_Fire_52
+  - first:
+      213: -1426247440652169
+    second: Jump_Swing_Fire_53
+  - first:
+      213: -3315632204427735625
+    second: Jump_Swing_Fire_54
+  - first:
+      213: -1044108333288823491
+    second: Jump_Swing_Fire_55
+  - first:
+      213: 5437136028236982918
+    second: Jump_Swing_Fire_56
+  - first:
+      213: 3421964948192996313
+    second: Jump_Swing_Fire_57
+  - first:
+      213: -4097950091992470204
+    second: Jump_Swing_Fire_58
+  - first:
+      213: -1062799850138251722
+    second: Jump_Swing_Fire_59
+  - first:
+      213: -1227864597293481386
+    second: Jump_Swing_Fire_60
+  - first:
+      213: -4970131687274808660
+    second: Jump_Swing_Fire_61
+  - first:
+      213: -3695443732566680394
+    second: Jump_Swing_Fire_62
+  - first:
+      213: 1552423929736510373
+    second: Jump_Swing_Fire_63
+  - first:
+      213: 8040779476836067150
+    second: Jump_Swing_Fire_64
+  - first:
+      213: 8938394668288455912
+    second: Jump_Swing_Fire_65
+  - first:
+      213: 6997549448416672893
+    second: Jump_Swing_Fire_66
+  - first:
+      213: 4796153363781507444
+    second: Jump_Swing_Fire_67
+  - first:
+      213: 985177111545272101
+    second: Jump_Swing_Fire_68
+  - first:
+      213: 5153081737479395837
+    second: Jump_Swing_Fire_69
+  - first:
+      213: 3450697292649498152
+    second: Jump_Swing_Fire_70
+  - first:
+      213: -1796257694859476524
+    second: Jump_Swing_Fire_71
+  - first:
+      213: -5699850026022695630
+    second: Jump_Swing_Fire_72
+  - first:
+      213: -1554916345572635821
+    second: Jump_Swing_Fire_73
+  - first:
+      213: -990703992940018836
+    second: Jump_Swing_Fire_74
+  - first:
+      213: -144127510000299237
+    second: Jump_Swing_Fire_75
+  - first:
+      213: 5395783625275578367
+    second: Jump_Swing_Fire_76
+  - first:
+      213: -4945907125281995894
+    second: Jump_Swing_Fire_77
+  - first:
+      213: 3140371757940491424
+    second: Jump_Swing_Fire_78
+  - first:
+      213: -1329346948587690777
+    second: Jump_Swing_Fire_79
+  - first:
+      213: -1748994170565848331
+    second: Jump_Swing_Fire_80
+  - first:
+      213: 1536165691082364793
+    second: Jump_Swing_Fire_81
+  - first:
+      213: 5030271370682485082
+    second: Jump_Swing_Fire_82
+  - first:
+      213: -6625867368548116817
+    second: Jump_Swing_Fire_83
+  - first:
+      213: -6655712542395959370
+    second: Jump_Swing_Fire_84
+  - first:
+      213: -3165215499320209286
+    second: Jump_Swing_Fire_85
+  - first:
+      213: -8601985524747244321
+    second: Jump_Swing_Fire_86
+  - first:
+      213: 6606639935181028651
+    second: Jump_Swing_Fire_87
+  - first:
+      213: -8994780146414345016
+    second: Jump_Swing_Fire_88
+  - first:
+      213: -1707204032538749942
+    second: Jump_Swing_Fire_89
+  - first:
+      213: 8619839567488697932
+    second: Jump_Swing_Fire_90
+  - first:
+      213: 950554786808447147
+    second: Jump_Swing_Fire_91
+  - first:
+      213: 6207509761348438258
+    second: Jump_Swing_Fire_92
+  - first:
+      213: 3994853813088510497
+    second: Jump_Swing_Fire_93
+  - first:
+      213: -4001320119384205070
+    second: Jump_Swing_Fire_94
+  - first:
+      213: -5327085122224631726
+    second: Jump_Swing_Fire_95
+  - first:
+      213: 7429614678243828700
+    second: Jump_Swing_Fire_96
+  - first:
+      213: 4470918580971635948
+    second: Jump_Swing_Fire_97
+  - first:
+      213: -5790888050483221662
+    second: Jump_Swing_Fire_98
+  - first:
+      213: 1340408490593501069
+    second: Jump_Swing_Fire_99
+  - first:
+      213: -86581113212615046
+    second: Jump_Swing_Fire_100
+  - first:
+      213: 4173906275205772181
+    second: Jump_Swing_Fire_101
+  - first:
+      213: -3074770056102039423
+    second: Jump_Swing_Fire_102
+  - first:
+      213: 186715525058075011
+    second: Jump_Swing_Fire_103
+  - first:
+      213: 664290729472852615
+    second: Jump_Swing_Fire_104
+  - first:
+      213: 7867930314304975870
+    second: Jump_Swing_Fire_105
+  - first:
+      213: -2562785551456600904
+    second: Jump_Swing_Fire_106
+  - first:
+      213: -394607947766789610
+    second: Jump_Swing_Fire_107
+  - first:
+      213: -8801889407550571056
+    second: Jump_Swing_Fire_108
+  - first:
+      213: 212851810332928166
+    second: Jump_Swing_Fire_109
+  - first:
+      213: -59832842337408439
+    second: Jump_Swing_Fire_110
+  - first:
+      213: -4464897545533531413
+    second: Jump_Swing_Fire_111
+  - first:
+      213: 5845678617848269343
+    second: Jump_Swing_Fire_112
+  - first:
+      213: 3445440087667642581
+    second: Jump_Swing_Fire_113
+  - first:
+      213: 8277592867036344767
+    second: Jump_Swing_Fire_114
+  - first:
+      213: -1046659108922497111
+    second: Jump_Swing_Fire_115
+  - first:
+      213: -5630217483532698101
+    second: Jump_Swing_Fire_116
+  - first:
+      213: -9111270251775573095
+    second: Jump_Swing_Fire_117
+  - first:
+      213: 6874159019053588354
+    second: Jump_Swing_Fire_118
+  - first:
+      213: -728750193198653573
+    second: Jump_Swing_Fire_119
+  - first:
+      213: 5190078142505009296
+    second: Jump_Swing_Fire_120
+  - first:
+      213: -5784939794686472472
+    second: Jump_Swing_Fire_121
+  - first:
+      213: -1297052266340043122
+    second: Jump_Swing_Fire_122
+  - first:
+      213: -629911892380574021
+    second: Jump_Swing_Fire_123
+  - first:
+      213: -4086134212150305268
+    second: Jump_Swing_Fire_124
+  - first:
+      213: -7801408785109976935
+    second: Jump_Swing_Fire_125
+  - first:
+      213: -4843387590148618902
+    second: Jump_Swing_Fire_126
+  - first:
+      213: 7441817820289936411
+    second: Jump_Swing_Fire_127
+  - first:
+      213: -407411947854595896
+    second: Jump_Swing_Fire_128
+  - first:
+      213: -8190867054758698011
+    second: Jump_Swing_Fire_129
+  - first:
+      213: 8440364825071004048
+    second: Jump_Swing_Fire_130
+  - first:
+      213: -2979003657762000359
+    second: Jump_Swing_Fire_131
+  - first:
+      213: 3535161847850610004
+    second: Jump_Swing_Fire_132
+  - first:
+      213: -9154257824821515690
+    second: Jump_Swing_Fire_133
+  - first:
+      213: 469409159567596610
+    second: Jump_Swing_Fire_134
+  - first:
+      213: -2024924958030141790
+    second: Jump_Swing_Fire_135
+  - first:
+      213: 3637768801661452876
+    second: Jump_Swing_Fire_136
+  - first:
+      213: -6160166749808766239
+    second: Jump_Swing_Fire_137
+  - first:
+      213: 8227928586465256908
+    second: Jump_Swing_Fire_138
+  - first:
+      213: -9198883985426315933
+    second: Jump_Swing_Fire_139
+  - first:
+      213: -5673152618757747446
+    second: Jump_Swing_Fire_140
+  - first:
+      213: 4918315700625185225
+    second: Jump_Swing_Fire_141
+  - first:
+      213: -5654357915905043986
+    second: Jump_Swing_Fire_142
+  - first:
+      213: 8466966323409558340
+    second: Jump_Swing_Fire_143
+  - first:
+      213: -7311026378847587801
+    second: Jump_Swing_Fire_144
+  - first:
+      213: -8648620768710198968
+    second: Jump_Swing_Fire_145
+  - first:
+      213: -8013060701746009259
+    second: Jump_Swing_Fire_146
+  - first:
+      213: -5320456279064180429
+    second: Jump_Swing_Fire_147
+  - first:
+      213: -7322878159530483640
+    second: Jump_Swing_Fire_148
+  - first:
+      213: -3336153808463995713
+    second: Jump_Swing_Fire_149
+  - first:
+      213: 1563317704124979579
+    second: Jump_Swing_Fire_150
+  - first:
+      213: -2443045800216086827
+    second: Jump_Swing_Fire_151
+  - first:
+      213: -3180384242515706374
+    second: Jump_Swing_Fire_152
+  - first:
+      213: -2816317467118832073
+    second: Jump_Swing_Fire_153
+  - first:
+      213: 8575658739878667992
+    second: Jump_Swing_Fire_154
+  - first:
+      213: -9094252278786551555
+    second: Jump_Swing_Fire_155
+  - first:
+      213: 8847606968489139913
+    second: Jump_Swing_Fire_156
+  - first:
+      213: 5207682435334604191
+    second: Jump_Swing_Fire_157
+  - first:
+      213: 4497911043051290769
+    second: Jump_Swing_Fire_158
+  - first:
+      213: -6114365090197807912
+    second: Jump_Swing_Fire_159
+  - first:
+      213: 540658240136679429
+    second: Jump_Swing_Fire_160
+  - first:
+      213: 8686333888879121440
+    second: Jump_Swing_Fire_161
+  - first:
+      213: 9132246501535839273
+    second: Jump_Swing_Fire_162
+  - first:
+      213: 5016237538743458772
+    second: Jump_Swing_Fire_163
+  - first:
+      213: 4176772220874883953
+    second: Jump_Swing_Fire_164
+  - first:
+      213: 7527690330415699908
+    second: Jump_Swing_Fire_165
+  - first:
+      213: -1776641822819624938
+    second: Jump_Swing_Fire_166
+  - first:
+      213: -138192586153948820
+    second: Jump_Swing_Fire_167
+  - first:
+      213: 6337911791335162652
+    second: Jump_Swing_Fire_168
+  - first:
+      213: -6058496191646574062
+    second: Jump_Swing_Fire_169
+  - first:
+      213: -8441474927769113014
+    second: Jump_Swing_Fire_170
+  - first:
+      213: -430325600376369280
+    second: Jump_Swing_Fire_171
+  - first:
+      213: 4014025015324801066
+    second: Jump_Swing_Fire_172
+  - first:
+      213: 5795846742847012994
+    second: Jump_Swing_Fire_173
+  - first:
+      213: 1762769964445673056
+    second: Jump_Swing_Fire_174
+  - first:
+      213: 3449003332481443859
+    second: Jump_Swing_Fire_175
+  - first:
+      213: 3061673188222748916
+    second: Jump_Swing_Fire_176
+  - first:
+      213: -7843024989066170763
+    second: Jump_Swing_Fire_177
+  - first:
+      213: 5371849224439119047
+    second: Jump_Swing_Fire_178
+  - first:
+      213: 400822810937557878
+    second: Jump_Swing_Fire_179
+  - first:
+      213: 8829769409196080136
+    second: Jump_Swing_Fire_180
+  - first:
+      213: -8271309820292721517
+    second: Jump_Swing_Fire_181
+  - first:
+      213: 8049385829878353192
+    second: Jump_Swing_Fire_182
+  - first:
+      213: 6928398990411037727
+    second: Jump_Swing_Fire_183
+  - first:
+      213: 5088144856539254765
+    second: Jump_Swing_Fire_184
+  - first:
+      213: -6041225501224619747
+    second: Jump_Swing_Fire_185
+  - first:
+      213: -4970178374202798938
+    second: Jump_Swing_Fire_186
+  - first:
+      213: 3978244634486141485
+    second: Jump_Swing_Fire_187
+  - first:
+      213: -7956997954153949113
+    second: Jump_Swing_Fire_188
+  - first:
+      213: 4230297065571248722
+    second: Jump_Swing_Fire_189
+  - first:
+      213: 6805619749365560034
+    second: Jump_Swing_Fire_190
+  - first:
+      213: -4051501548628792943
+    second: Jump_Swing_Fire_191
+  - first:
+      213: -4501456912611224059
+    second: Jump_Swing_Fire_192
+  - first:
+      213: -3689474768873007400
+    second: Jump_Swing_Fire_193
+  - first:
+      213: -3568838397739257216
+    second: Jump_Swing_Fire_194
+  - first:
+      213: -587032017524942386
+    second: Jump_Swing_Fire_195
+  - first:
+      213: 7683081187555828451
+    second: Jump_Swing_Fire_196
+  - first:
+      213: 3716543693101797827
+    second: Jump_Swing_Fire_197
+  - first:
+      213: 692289804814132974
+    second: Jump_Swing_Fire_198
+  - first:
+      213: -6116900434948357845
+    second: Jump_Swing_Fire_199
+  - first:
+      213: -8123183621075127430
+    second: Jump_Swing_Fire_200
+  - first:
+      213: 697599003148003804
+    second: Jump_Swing_Fire_201
+  - first:
+      213: -595460755511362824
+    second: Jump_Swing_Fire_202
+  - first:
+      213: -3150798516587400557
+    second: Jump_Swing_Fire_203
+  - first:
+      213: 4602257420926724166
+    second: Jump_Swing_Fire_204
+  - first:
+      213: -613445848108596095
+    second: Jump_Swing_Fire_205
+  - first:
+      213: -9142595701158390569
+    second: Jump_Swing_Fire_206
+  - first:
+      213: -3650059265261392753
+    second: Jump_Swing_Fire_207
+  - first:
+      213: -3527183302199358354
+    second: Jump_Swing_Fire_208
+  - first:
+      213: -6897549030979564068
+    second: Jump_Swing_Fire_209
+  - first:
+      213: 7361624656920539200
+    second: Jump_Swing_Fire_210
+  - first:
+      213: -9022350744795228817
+    second: Jump_Swing_Fire_211
+  - first:
+      213: -6765934633905149553
+    second: Jump_Swing_Fire_212
+  - first:
+      213: 4526216299306017138
+    second: Jump_Swing_Fire_213
+  - first:
+      213: 1448943131404163679
+    second: Jump_Swing_Fire_214
+  - first:
+      213: 2956112948044138946
+    second: Jump_Swing_Fire_215
+  - first:
+      213: 8945506901026922492
+    second: Jump_Swing_Fire_216
+  - first:
+      213: 8883046463180835238
+    second: Jump_Swing_Fire_217
+  - first:
+      213: -5164790771725468150
+    second: Jump_Swing_Fire_218
+  - first:
+      213: -3246268867648115605
+    second: Jump_Swing_Fire_219
+  - first:
+      213: 6273258878178818482
+    second: Jump_Swing_Fire_220
+  - first:
+      213: 1582337868064704155
+    second: Jump_Swing_Fire_221
+  - first:
+      213: 8741285723360881483
+    second: Jump_Swing_Fire_222
+  - first:
+      213: -7427584261732286981
+    second: Jump_Swing_Fire_223
+  - first:
+      213: -1533537583414393156
+    second: Jump_Swing_Fire_224
+  - first:
+      213: -3231563323465329057
+    second: Jump_Swing_Fire_225
+  - first:
+      213: -1090212224491285043
+    second: Jump_Swing_Fire_226
+  - first:
+      213: 24485572659669338
+    second: Jump_Swing_Fire_227
+  - first:
+      213: -2567404376911274071
+    second: Jump_Swing_Fire_228
+  - first:
+      213: -959310684519651868
+    second: Jump_Swing_Fire_229
+  - first:
+      213: 1355590507648853613
+    second: Jump_Swing_Fire_230
+  - first:
+      213: 5939983635492306760
+    second: Jump_Swing_Fire_231
+  - first:
+      213: 7090851876016763564
+    second: Jump_Swing_Fire_232
+  - first:
+      213: -5798715786384603997
+    second: Jump_Swing_Fire_233
+  - first:
+      213: -3586755821782437601
+    second: Jump_Swing_Fire_234
+  - first:
+      213: 7295461873841495893
+    second: Jump_Swing_Fire_235
+  - first:
+      213: -8181664666140859076
+    second: Jump_Swing_Fire_236
+  - first:
+      213: -7396112179240817911
+    second: Jump_Swing_Fire_237
+  - first:
+      213: 3889178576405534167
+    second: Jump_Swing_Fire_238
+  - first:
+      213: -6313165412675689383
+    second: Jump_Swing_Fire_239
+  - first:
+      213: -605636178926779999
+    second: Jump_Swing_Fire_240
+  - first:
+      213: -1611318952222470331
+    second: Jump_Swing_Fire_241
+  - first:
+      213: 8768671116507799291
+    second: Jump_Swing_Fire_242
+  - first:
+      213: -5006189065949380315
+    second: Jump_Swing_Fire_243
+  - first:
+      213: 6161199191558438567
+    second: Jump_Swing_Fire_244
+  - first:
+      213: -7189753435843068083
+    second: Jump_Swing_Fire_245
+  - first:
+      213: -861207017197957356
+    second: Jump_Swing_Fire_246
+  - first:
+      213: 1209967339133942457
+    second: Jump_Swing_Fire_247
+  - first:
+      213: -7616182625468891162
+    second: Jump_Swing_Fire_248
+  - first:
+      213: -2879717772910581749
+    second: Jump_Swing_Fire_249
+  - first:
+      213: -6757743854479886212
+    second: Jump_Swing_Fire_250
+  - first:
+      213: -500406313433789117
+    second: Jump_Swing_Fire_251
+  - first:
+      213: 4616401142506123865
+    second: Jump_Swing_Fire_252
+  - first:
+      213: -1415242239294069245
+    second: Jump_Swing_Fire_253
+  - first:
+      213: -7434793548701538352
+    second: Jump_Swing_Fire_254
+  - first:
+      213: -761687779553789179
+    second: Jump_Swing_Fire_255
+  - first:
+      213: -6002137712414134443
+    second: Jump_Swing_Fire_256
+  - first:
+      213: -6391806002656161212
+    second: Jump_Swing_Fire_257
+  - first:
+      213: -9068055894831708700
+    second: Jump_Swing_Fire_258
+  - first:
+      213: 4809326476071387574
+    second: Jump_Swing_Fire_259
+  - first:
+      213: 3314143961942411319
+    second: Jump_Swing_Fire_260
+  - first:
+      213: 2093340469147934929
+    second: Jump_Swing_Fire_261
+  - first:
+      213: 4797725040430297651
+    second: Jump_Swing_Fire_262
+  - first:
+      213: 8243274532721708227
+    second: Jump_Swing_Fire_263
+  - first:
+      213: -4345769538047187279
+    second: Jump_Swing_Fire_264
+  - first:
+      213: 915437734813543180
+    second: Jump_Swing_Fire_265
+  - first:
+      213: 8332828408457713420
+    second: Jump_Swing_Fire_266
+  - first:
+      213: -5082358188829485970
+    second: Jump_Swing_Fire_267
+  - first:
+      213: 2064123767530417310
+    second: Jump_Swing_Fire_268
+  - first:
+      213: -3092582552598961105
+    second: Jump_Swing_Fire_269
+  - first:
+      213: 1708147549666316543
+    second: Jump_Swing_Fire_270
+  - first:
+      213: -6333277095395020927
+    second: Jump_Swing_Fire_271
+  - first:
+      213: -966405425627871287
+    second: Jump_Swing_Fire_272
+  - first:
+      213: 3027167280423269681
+    second: Jump_Swing_Fire_273
+  - first:
+      213: 4115614669134518015
+    second: Jump_Swing_Fire_274
+  - first:
+      213: 6343244560177234075
+    second: Jump_Swing_Fire_275
+  - first:
+      213: -8344544158188128958
+    second: Jump_Swing_Fire_276
+  - first:
+      213: 4128607604459346934
+    second: Jump_Swing_Fire_277
+  - first:
+      213: -3977566347794998733
+    second: Jump_Swing_Fire_278
+  - first:
+      213: -4399951106431112152
+    second: Jump_Swing_Fire_279
+  - first:
+      213: 9117118170242755103
+    second: Jump_Swing_Fire_280
+  - first:
+      213: -7120402057963209102
+    second: Jump_Swing_Fire_281
+  - first:
+      213: -7845406959018447219
+    second: Jump_Swing_Fire_282
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1080
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c12d6acebe483c0800000000000000
+      internalID: -4358099137744200682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1076
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a49ad209cb2640800000000000000
+      internalID: 5056356020747806725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1064
+        width: 148
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352861312b3beab0800000000000000
+      internalID: -4977819949379082951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1068
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def553098d8d6f0c0800000000000000
+      internalID: -4542204749512613907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1060
+        width: 148
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e98f6af25614200800000000000000
+      internalID: 162522316901228140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1040
+        width: 144
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386158b4e1fa90950800000000000000
+      internalID: 6415851688816875139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1028
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a9107ac96084710800000000000000
+      internalID: 1677598131082074750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 772
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00f8cdd0e8237b60800000000000000
+      internalID: 7742577130638733327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 800
+        width: 156
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d3901a21fdcc80800000000000000
+      internalID: -8300713375204911828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 823
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3facc5ae33b7c9f80800000000000000
+      internalID: -8098462567013496077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 820
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0fb10d5b89f7e0800000000000000
+      internalID: -1731199350169728014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 822
+        width: 113
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8aa78cab28ddaf0800000000000000
+      internalID: -369995855635502913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 825
+        width: 119
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a050c09caada19b0800000000000000
+      internalID: -5108530392600653656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 826
+        width: 160
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe838318625309b0800000000000000
+      internalID: -5115154144805286158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 576
+        width: 420
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc221338a866900a0800000000000000
+      internalID: -6914883007758130481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 588
+        width: 162
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636a24980b170710800000000000000
+      internalID: 1659324711368811372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 580
+        width: 163
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d4f3abbc598150800000000000000
+      internalID: 5875329149860894129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 571
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc6940c77c5a640800000000000000
+      internalID: 5090694289279077719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 566
+        width: 162
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52207dba4d1a20c00800000000000000
+      internalID: 865432013196689957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 566
+        width: 142
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c61b8bde411a80800000000000000
+      internalID: -8497924317033086217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 312
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a4429a9a44b7e00800000000000000
+      internalID: 1043503234144291461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 288
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da5766f5da94ad80800000000000000
+      internalID: -8240291174428484907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 260
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749d0601f5203b510800000000000000
+      internalID: 1563596102947625287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 256
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858df1ef46775d60800000000000000
+      internalID: 7878896158573954437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_24
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 256
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f19df425ef4f10800000000000000
+      internalID: 2256273885371692763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 256
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984b907e7d07e5be0800000000000000
+      internalID: -1486626754389232503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 276
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fd3cfc537825810800000000000000
+      internalID: 1752611870189281062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 56
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f94006bc5d3970800000000000000
+      internalID: 8736240788927279226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 56
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f9ce5565d00590800000000000000
+      internalID: -7709927930699582798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_29
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 56
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51baacff0942c4130800000000000000
+      internalID: 3552254411273841429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_30
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 56
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13958d9ed5263c1a0800000000000000
+      internalID: -6790475657649825487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_31
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 56
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff22c3c82febaa10800000000000000
+      internalID: 1921892624365662201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_32
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 56
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6287fca6178470800000000000000
+      internalID: 8396704962398285171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_33
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 56
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c08ae5f16fa9750800000000000000
+      internalID: 6312628442305661988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c36ee454883d0df418a498e1d887766e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
